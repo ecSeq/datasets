@@ -1,3 +1,4 @@
-# datasets
-This repository contains test datasets for running `-profile test` on pipelines implemented with Nextflow.
-Please checkout the relevant branch for the pipeline you are working on. 
+# datasets: `RNAseq`
+Test data to be used for automated testing with Nextflow pipelines
+
+This branch contains test data for the [ecSeq/RNAseq](https://github.com/ecseq/rnaseq) pipeline.
